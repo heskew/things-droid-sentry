@@ -1,6 +1,6 @@
-# Artoo Sentry
+# Little Sentry Droid
 
-Project source code, docs and resources for the [Artoo Sentry Hackster project](https://www.hackster.io/heskew/r2-d2-sentry-179ff2).
+Project source code, docs and resources for the [Little Sentry Droid Hackster project](https://www.hackster.io/heskew/little-sentry-droid-179ff2).
 
 ## Acknowledgments
 
